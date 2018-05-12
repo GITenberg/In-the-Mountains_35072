@@ -1,0 +1,33 @@
+_repo: In-the-Mountains_35072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Beauchamp, Mary Annette
+    - Cholmondeley, Alice
+    - Arnim, Elizabeth von
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: ''
+gutenberg_issued: '2011-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Switzerland -- Fiction'
+- !lcc 'PR'
+title: In the Mountains
+url: http://www.gutenberg.org/ebooks/35072
